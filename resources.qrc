@@ -1,0 +1,65 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>C:/Users/hadhoud/Desktop/2013-Land-Rover-Range-Rover.jpg</file>
+        <file>C:/Users/hadhoud/Desktop/Entreprise-etendue.gif</file>
+        <file>C:/Users/hadhoud/Desktop/13052808-les-icones-des-applications-smartphone-en-forme-de-cube-sur-le-fichier-fond-noir-en-couches-pour-une.jpg</file>
+        <file>C:/Users/hadhoud/Downloads/android takeover (1).jpg</file>
+        <file>C:/Users/hadhoud/Downloads/android.jpg</file>
+        <file>C:/Users/hadhoud/Desktop/Untitled-1.png</file>
+        <file>image/541792_1415772758654529_1890217482_n.jpg</file>
+        <file>image/575200_1415772521987886_1040459006_n.jpg</file>
+        <file>image/581998_1415772538654551_1881795736_t.jpg</file>
+        <file>image/1000276_1415772531987885_658073790_t.jpg</file>
+        <file>image/1390743_1415772695321202_968539760_t.jpg</file>
+        <file>image/1393217_1415772635321208_1191644592_t.jpg</file>
+        <file>image/1393886_1415772731987865_1761438597_t.jpg</file>
+        <file>image/1395448_1415772491987889_1817079725_t.jpg</file>
+        <file>image/1425595_1415772648654540_17803584_t.jpg</file>
+        <file>image/1426204_1415772738654531_1287283233_s.jpg</file>
+        <file>image/1426328_1415772681987870_1523401909_t.jpg</file>
+        <file>image/1426732_1415772668654538_818517220_t.jpg</file>
+        <file>image/1450942_1415772515321220_605390347_s.jpg</file>
+        <file>image/1453286_1415772501987888_683436105_t.jpg</file>
+        <file>image/1459083_1415772488654556_404435789_t.jpg</file>
+        <file>image/1459896_1415772661987872_64164125_t.jpg</file>
+        <file>image/1460017_1415772598654545_2058949048_n.jpg</file>
+        <file>image/1460096_1415772768654528_694278824_n.jpg</file>
+        <file>image/1461620_1415772475321224_2017589999_t.jpg</file>
+        <file>image/1465128_1415772481987890_940394815_t.jpg</file>
+        <file>image/1465145_1415772718654533_1166893381_s.jpg</file>
+        <file>image/1465146_1415772665321205_1401071601_s.jpg</file>
+        <file>image/1468579_1415772751987863_1181815481_t.jpg</file>
+        <file>image/1468636_1415772505321221_1746180086_t.jpg</file>
+        <file>image/1471273_1415772591987879_960258490_s.jpg</file>
+        <file>image/1471954_1415772468654558_1417566327_t.jpg</file>
+        <file>image/images (1).jpg</file>
+        <file>image/images (2).jpg</file>
+        <file>image/images.jpg</file>
+        <file>image/plan.png</file>
+        <file>image/deconnexion (1).png</file>
+        <file>amine/depositphotos_2609430-Business-finance-chart-graph-diagram.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>entreprise-bleu-f3.jpg</file>
+        <file>gret.jpeg</file>
+        <file>Image1.png</file>
+        <file>OM.gif</file>
+        <file>stock-footage-rotating-glowing-sphere-from-color-application-icons-on-black-background.jpg</file>
+        <file>utilisateur-icone-3871-128.png</file>
+        <file>13052808-les-icones-des-applications-smartphone-en-forme-de-cube-sur-le-fichier-fond-noir-en-couches-pour-une.jpg</file>
+        <file>atelier-etats-unis-perdent-terrain-marche-applications.jpg</file>
+        <file>image/demarche_developpement_application_mobile_valence_drome_ardeche.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix3">
+        <file>amine/depositphotos_2609430-Business-finance-chart-graph-diagram.jpg</file>
+        <file>amine/google-analytics-application-mobile.jpg</file>
+        <file>amine/login.jpg</file>
+        <file>amine/mobile-europe.jpeg</file>
+        <file>amine/paiement-mobile-business-m-payment-©-Fenton-Fotolia.com_-732x1024.jpg</file>
+        <file>amine/shutterstock_83741023-300x196.jpg</file>
+        <file>amine/slidddde.png</file>
+        <file>C:/Users/hadhoud/Desktop/Image1.jpg</file>
+        <file>C:/Users/hadhoud/Desktop/Image2.jpg</file>
+        <file>C:/Users/hadhoud/Desktop/Kurtlar Vadisi مسلسل وادي الذئاب   صور مراد   نغمة المقدمه  3.mp3</file>
+    </qresource>
+</RCC>

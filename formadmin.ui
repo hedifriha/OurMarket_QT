@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>FORMADMIN</class>
+ <widget class="QDialog" name="FORMADMIN">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>731</width>
+    <height>467</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTableView" name="tableView">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>230</y>
+     <width>491</width>
+     <height>211</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QWidget" name="layoutWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>30</y>
+     <width>481</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout_2">
+    <item row="0" column="1">
+     <widget class="QLineEdit" name="lineEdit_nom"/>
+    </item>
+    <item row="1" column="0">
+     <widget class="QLabel" name="label_editeur">
+      <property name="text">
+       <string>EDITEUR</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1">
+     <widget class="QLineEdit" name="lineEdit_editeur"/>
+    </item>
+    <item row="2" column="0">
+     <widget class="QLabel" name="label_forum">
+      <property name="text">
+       <string>FORUM</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="1">
+     <widget class="QLineEdit" name="lineEdit_forum"/>
+    </item>
+    <item row="3" column="0">
+     <widget class="QLabel" name="label_duree">
+      <property name="text">
+       <string>DUREE</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="1">
+     <widget class="QTimeEdit" name="timeEdit_duree"/>
+    </item>
+    <item row="0" column="0">
+     <widget class="QLabel" name="label_nom">
+      <property name="text">
+       <string>NOM</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>110</y>
+     <width>181</width>
+     <height>193</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="3" column="0">
+     <widget class="QPushButton" name="pushButton_modifierpub">
+      <property name="text">
+       <string>MODIFIER PUB</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>:/new/prefix1/Nouveau dossier/three60.png</normaloff>:/new/prefix1/Nouveau dossier/three60.png</iconset>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="0">
+     <widget class="QPushButton" name="pushButton_supprimerpub">
+      <property name="text">
+       <string>SUPPRIMER PUB</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>:/new/prefix1/Nouveau dossier/button_cancel.png</normaloff>:/new/prefix1/Nouveau dossier/button_cancel.png</iconset>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="0">
+     <widget class="QPushButton" name="pushButton_afficherpub">
+      <property name="text">
+       <string>AFFICHER PUB</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>:/new/prefix1/Nouveau dossier/book_256px.png</normaloff>:/new/prefix1/Nouveau dossier/book_256px.png</iconset>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="0">
+     <widget class="QPushButton" name="pushButton_ajouterpub">
+      <property name="whatsThis">
+       <string/>
+      </property>
+      <property name="text">
+       <string>AJOUTER PUB</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>:/new/prefix1/Nouveau dossier/check.png</normaloff>:/new/prefix1/Nouveau dossier/check.png</iconset>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="0">
+     <widget class="QGraphicsView" name="graphicsView">
+      <property name="styleSheet">
+       <string notr="true">border-image: url(:/new/prefix1/Nouveau dossier/shutterstock_83741023-300x196.jpg);</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>-10</x>
+     <y>2</y>
+     <width>751</width>
+     <height>451</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image:url(:/new/prefix1/C:/Users/hadhoud/Desktop/13052808-les-icones-des-applications-smartphone-en-forme-de-cube-sur-le-fichier-fond-noir-en-couches-pour-une.jpg)</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <zorder>label</zorder>
+  <zorder>tableView</zorder>
+  <zorder>layoutWidget</zorder>
+  <zorder>layoutWidget_2</zorder>
+  <zorder>graphicsView</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
